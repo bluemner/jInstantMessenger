@@ -3,7 +3,7 @@ package com.messenger.client;
 /**
  * 
  * @author Beta
- *
+ *d
  */
 public class Client {
 
